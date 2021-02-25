@@ -1,0 +1,17 @@
+Dataset Ideas:
+
+1. Data from the English Premier League (EPL)
+The English Premier League, contested by 20 teams, is the top division of the soccer league system in England. I am interested in looking at team data (eg. total market value of 
+the team, previous home vs. away records, or average player ratings as given by FIFA) to predict the outcome of a game. 
+The two data sets at https://www.kaggle.com/zaeemnalla/premier-league provide most of the data I would need.
+
+
+2. Crimes in Boston Data
+Crime statistics for Boston are available here: https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system.
+It would be interesting to see where and when (what time of the day/week) most crimes occur. This data could also be combined with other datasets such as police presence in that 
+particular area.
+
+3. InstaCart Orders
+The following dataset provides information about 3 million InstaCart orders:
+https://tech.instacart.com/3-million-instacart-orders-open-sourced-d40d29ead6f2. This data can be used to predict future orders and study user habits and how they change with
+time/season etc.
